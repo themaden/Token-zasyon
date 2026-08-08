@@ -1,0 +1,7 @@
+# Ignore all text data files
+*.txt
+
+# Python venv and cache (optional)
+.venv/
+__pycache__/
+*.pyc
